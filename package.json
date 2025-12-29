@@ -1,0 +1,19 @@
+{
+  "name": "loader",
+  "version": "1.0.0",
+  "main": "loader.js",
+  "scripts": {
+    "start": "node loader.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ws": "^8.18.3",
+	"dotenv": "^17.2.3"
+  }
+}
